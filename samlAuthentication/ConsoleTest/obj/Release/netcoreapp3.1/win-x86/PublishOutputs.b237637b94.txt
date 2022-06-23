@@ -1,0 +1,2 @@
+C:\temp\test\testapp\ConsoleTest.pdb
+C:\temp\test\testapp\ConsoleTest.exe

@@ -1,0 +1,5 @@
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.exe
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.dll
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.deps.json
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.runtimeconfig.json
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.pdb

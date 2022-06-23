@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNEWUo1m8YUMJ5Nnp9rXdaz9Vcgp2akfba5ekKiBY3jB+pK7d8gGQjfLnzXBrXhAgbZ6Tyqt9H/Wg7Dyw7LWiw==",
+  "success": true,
+  "projectFilePath": "C:\\codeworkspace\\localGitRepo\\samlAuthentication\\samlAuthentication\\samlAuthentication\\samlAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayy11079\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.24\\microsoft.netcore.app.runtime.win-x86.3.1.24.nupkg.sha512",
+    "C:\\Users\\ayy11079\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.24\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.24.nupkg.sha512",
+    "C:\\Users\\ayy11079\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.24\\microsoft.aspnetcore.app.runtime.win-x86.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

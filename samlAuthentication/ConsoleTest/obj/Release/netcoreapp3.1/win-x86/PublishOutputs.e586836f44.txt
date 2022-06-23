@@ -1,0 +1,2 @@
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.pdb
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\ConsoleTest\bin\Release\netcoreapp3.1\publish\ConsoleTest.exe

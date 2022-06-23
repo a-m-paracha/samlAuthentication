@@ -1,0 +1,16 @@
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\bin\Release\netcoreapp3.1\samlAuthentication.exe
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\bin\Release\netcoreapp3.1\samlAuthentication.deps.json
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\bin\Release\netcoreapp3.1\samlAuthentication.runtimeconfig.json
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\bin\Release\netcoreapp3.1\samlAuthentication.runtimeconfig.dev.json
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\bin\Release\netcoreapp3.1\samlAuthentication.dll
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\bin\Release\netcoreapp3.1\samlAuthentication.pdb
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.csproj.AssemblyReference.cache
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.Form1.resources
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.csproj.GenerateResource.cache
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.AssemblyInfoInputs.cache
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.AssemblyInfo.cs
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.csproj.CoreCompileInputs.cache
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.dll
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.pdb
+C:\codeworkspace\localGitRepo\samlAuthentication\samlAuthentication\samlAuthentication\obj\Release\netcoreapp3.1\samlAuthentication.genruntimeconfig.cache
